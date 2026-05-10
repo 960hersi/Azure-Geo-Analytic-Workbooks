@@ -148,7 +148,4 @@ Monitors failed authentication attempts against Azure virtual machines.
 - Cross-workspace support
 
 ---
-
-# Author
-
 Security Analytics & Azure Monitoring Project
