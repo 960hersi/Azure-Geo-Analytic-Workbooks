@@ -51,9 +51,6 @@ Visualizes malicious inbound traffic attempting to access the environment using 
 | Protocol | TCP / UDP |
 | Action Taken | Allowed / Blocked |
 
-### Screenshot
-![Malicious Traffic Workbook](images/malicious-traffic-map.png)
-
 ---
 
 ## 2. Entra ID Authentication Failures
@@ -85,9 +82,6 @@ Tracks failed Entra ID sign-in attempts with geographic visualization and identi
 | Country | Source location |
 | Application | Targeted application |
 | Risk Level | Low / Medium / High |
-
-### Screenshot
-![Entra ID Failures Workbook](images/entra-auth-failures.png)
 
 ---
 
@@ -123,34 +117,6 @@ Monitors failed authentication attempts against Azure virtual machines.
 | Failure Reason | Invalid credentials, expired password |
 | Attempts | Number of failed attempts |
 
-### Screenshot
-![VM Authentication Failures Workbook](images/vm-auth-failures.png)
-
----
-
-# Repository Structure
-
-```text
-Azure-Geo-Analytics/
-│
-├── Workbooks/
-│   ├── Malicious-Traffic.json
-│   ├── EntraID-Authentication-Failures.json
-│   └── VM-Authentication-Failures.json
-│
-├── Sample-Data/
-│   ├── Malicious_Traffic_Entering_the_Network.csv
-│   ├── Entra_ID_Authentication_Failures.csv
-│   └── VM_Authentication_Failures.csv
-│
-├── images/
-│   ├── malicious-traffic-map.png
-│   ├── entra-auth-failures.png
-│   └── vm-auth-failures.png
-│
-└── README.md
-```
-
 ---
 
 # Deployment
@@ -180,12 +146,6 @@ Azure-Geo-Analytics/
 - User behavior analytics
 - Dark mode optimized dashboards
 - Cross-workspace support
-
----
-
-# License
-
-MIT License
 
 ---
 
