@@ -21,6 +21,9 @@ The workbooks help identify:
 
 ## 1. Malicious Traffic Entering the Network
 
+<img width="1550" height="586" alt="Malicious Traffic Entering the Network" src="https://github.com/user-attachments/assets/62a141a0-43bf-4cf4-988c-2c6eafc8c201" />
+
+
 ### Description
 Visualizes malicious inbound traffic attempting to access the environment using geo-mapping and threat analytics.
 
@@ -55,6 +58,9 @@ Visualizes malicious inbound traffic attempting to access the environment using 
 
 ## 2. Entra ID Authentication Failures
 
+<img width="1605" height="571" alt="Entra ID Authentication Failures" src="https://github.com/user-attachments/assets/85ea9237-38c0-4008-966e-1d8e2748e66d" />
+
+
 ### Description
 Tracks failed Entra ID sign-in attempts with geographic visualization and identity analytics.
 
@@ -86,6 +92,9 @@ Tracks failed Entra ID sign-in attempts with geographic visualization and identi
 ---
 
 ## 3. VM Authentication Failures
+
+<img width="1136" height="566" alt="VM Authentication Failures" src="https://github.com/user-attachments/assets/8a37783f-4bfc-4d04-81d6-d3ead18f7a63" />
+
 
 ### Description
 Monitors failed authentication attempts against Azure virtual machines.
